@@ -130,7 +130,7 @@ const dateObj = new Date();
     for(var bb=0;bb<process.argv[6];bb++) {
         cluster.fork();
     }
-	 console.log(color('red', 'blue')('Attack Sent Succesfully| METHODS BY FREE TOOLS'));
+	 console.log(color('red', 'blue')('Attack Sent Succesfully| METHODS BY Tyler'));
     setTimeout(() => {
 		console.log('	Attack ended.'.green.bold);
         process.exit(-1)

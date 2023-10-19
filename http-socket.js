@@ -32,7 +32,7 @@ return delete client;
 }
 if(cluster.isMaster){
 	 console.log(color('red', 'blue')('╔────────────────────────────────────────────────╗'));
-	 console.log(color('red', 'blue')('│ Attack Sent Succesfully| METHODS BY FREE TOOLS │'));
+	 console.log(color('red', 'blue')('│ Attack Sent Succesfully| METHODS BY Tyler │'));
 	 console.log(color('red', 'blue')('╚────────────────────────────────────────────────╝'));
 for(let i=0;i<th;i++){
 cluster.fork()
