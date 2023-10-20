@@ -1,5 +1,5 @@
 - Do you want used it?
-- Works on Cloud Shell, VPS, can work on Termux but it's quite weak
+- Please note that you must download NodeJS to be able to use Methods
 # Setup?
 - ``git clone https://github.com/Matrix-Tyler/DDoS/``
 - ``cd DDoS``
