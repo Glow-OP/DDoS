@@ -111,7 +111,7 @@ function dataed(length) {
    
 if (process.argv.length < 8){
 	console.log('	');
-    console.log('		HTTPS/2 Floodv5 (HTTPS Only) | Method by FREE TOOLS '.green.bold);
+    console.log('		HTTPS/2 Floodv5 (HTTPS Only) | Method by Glow.D '.green.bold);
 	console.log('	');
     console.log('Usage: node file_name <GET/HEAD> <host> <proxies> <duration> <rate<64> <thread(1-3)>	');
     //console.log(process.argv.length);

@@ -68,7 +68,7 @@
 
  if (cluster.isMaster) {
 	 console.log(color('red', 'blue')('╔────────────────────────────────────────────────╗'));
-	 console.log(color('red', 'blue')('│ Attack Sent Succesfully| METHODS BY Tyler │'));
+	 console.log(color('red', 'blue')('│ Attack Sent Succesfully| METHODS BY Glow.D │'));
 	 console.log(color('red', 'blue')('╚────────────────────────────────────────────────╝'));
     for (let counter = 1; counter <= args.threads; counter++) {
         //console.log("Threads " + counter +  " started.");

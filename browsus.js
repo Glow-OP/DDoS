@@ -97,12 +97,12 @@ const JSList = {
     {
         "name": "BlazingFast v1.0",
         "navigations": 1,
-        "locate": "<br>DDoS Protection by</font> Blazingfast.io</a>"
+        "locate": "<br>DDoS Protection by</font> Glow.D</a>"
     },
     {
         "name": "BlazingFast v2.0",
         "navigations": 1,
-        "locate": "Verifying your browser, please wait...<br>DDoS Protection by</font> Blazingfast.io</a></h1>"
+        "locate": "Verifying your browser, please wait...<br>DDoS Protection by</font> Glow.D</a></h1>"
     },
     {
         "name": "Sucuri",
